@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+header,footer{
+    background:#ececec;
+}
+#main_section{
+    padding:20px 10px;
+    
+}
+footer{
+    padding:20px 15px 10px;
+}
+h1{
+    font-family: fantasy;
+}
+.cTitle{
+    color:#ea5a4b;
+}
