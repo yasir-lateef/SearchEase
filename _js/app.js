@@ -99,7 +99,7 @@ function prevPage(){
             q : query,
             pageToken : token,
             type: 'video',
-            key : 'AIzaSyB2Hf2LrUaK4TFnsYZeVQjfvt2xLI_NUFw'
+            key : '' // Your API Key here
         },
         function(data){
             var prevPageToken = data.prevPageToken,
